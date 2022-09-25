@@ -1,6 +1,5 @@
-hello tfghj
 
-reate table dept
+create table dept
 (  
 dep_id int primary key,
 dep_name varchar(20) not null
